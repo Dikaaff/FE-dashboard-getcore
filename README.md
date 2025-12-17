@@ -1,7 +1,7 @@
 
   # Dashboard Getcore
 
-  This is a code bundle for Dashboard Getcore. The original project is available at https://www.figma.com/design/htD9hR2yvwDnm5FnfsQiR3/Dashboard-Getcore.
+  This is a code bundle for Dashboard Getcore. The original project Fronend for Getcore.
 
   ## Running the code
 
